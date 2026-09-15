@@ -1,23 +1,18 @@
-# Tanveer Portfolio
+# Tanveer Iqbal — 2026 Portfolio
 
-Static portfolio prepared for GitHub Pages.
+A zero-dependency static portfolio for GitHub Pages.
 
-## Upload
-Upload the contents of this folder to the root of your `portfolio` repository.
+## Deploy
+Upload the CONTENTS of this folder to the root of your `portfolio` repository.
 
-Required structure:
+GitHub → Settings → Pages:
+- Source: Deploy from a branch
+- Branch: main
+- Folder: /(root)
 
-- index.html
-- assets/css/style.css
-- assets/js/main.js
-- .nojekyll
-
-Then go to GitHub repository:
-Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main → /(root) → Save.
-
-Your project URL should be:
+Expected URL:
 https://tanveerk0956.github.io/portfolio/
 
-## Before publishing
-Open `index.html` and replace `YOUR-EMAIL@example.com`.
-Replace the three case-study placeholders only with real, verifiable work.
+## Important
+The portfolio deliberately avoids invented projects, metrics, client names and unverified technology claims.
+Add real case studies later using: Challenge → Technical Decision → Solution → Verified Result.
