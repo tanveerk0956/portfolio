@@ -1,18 +1,17 @@
-# Tanveer Iqbal — 2026 Portfolio
+# Tanveer — Professional Portfolio
 
-A zero-dependency static portfolio for GitHub Pages.
+## GitHub Pages deployment
+Upload the CONTENTS of this folder to your `portfolio` repository.
 
-## Deploy
-Upload the CONTENTS of this folder to the root of your `portfolio` repository.
+Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
 
-GitHub → Settings → Pages:
-- Source: Deploy from a branch
-- Branch: main
-- Folder: /(root)
+## Replace these before final use
+1. `assets/images/profile-placeholder.svg` → replace with your professional photo, ideally named `profile.jpg`, then update the image path in `index.html`.
+2. Search `YOUR-EMAIL@example.com` in `index.html` and replace it.
+3. Search `YOUR-WHATSAPP-NUMBER` and replace with international-format number (digits only in the wa.me link).
 
-Expected URL:
-https://tanveerk0956.github.io/portfolio/
+## Project previews
+The project cards use image.thum.io to render current screenshots of your live project URLs. If the preview service is unavailable, the card automatically shows a clean text fallback. The live-site links still work.
 
-## Important
-The portfolio deliberately avoids invented projects, metrics, client names and unverified technology claims.
-Add real case studies later using: Challenge → Technical Decision → Solution → Verified Result.
+## Positioning
+Full-Stack Web Developer; strongest in WordPress + PHP; Node.js is intentionally described as intermediate; AI claims are limited to AI-assisted website building/prompt workflows and AI video generation.
